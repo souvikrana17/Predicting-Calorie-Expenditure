@@ -1,12 +1,3 @@
-Thanks, Souvik! Based on your details:
-
-* ✅ **Competition name**: *Predict Calorie Expenditure*
-* ✅ **Project/File name**: `predicting-calorie-expenditure`
-
-Here’s the **updated and finalized `README.md`** tailored for your project:
-
----
-
 ### ✅ `README.md`
 
 ```markdown
