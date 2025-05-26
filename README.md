@@ -88,7 +88,7 @@ Calorie prediction is a crucial application in fitness tracking, health monitori
    ```
 
 3. **Run the notebook**
-   Launch `calorie_prediction.ipynb` in Jupyter or Colab and run all cells.
+   Launch `Predicting Calorie Expenditure.ipynb` in Jupyter or Colab and run all cells.
 
 ---
 
