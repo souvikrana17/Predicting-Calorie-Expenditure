@@ -1,6 +1,3 @@
-### ✅ `README.md`
-
-```markdown
 # 🔥 Predicting Calorie Expenditure
 
 This project predicts the number of calories burned during exercise using physiological and activity-related features. Built for the **Kaggle Playground Series - Predict Calorie Expenditure** competition, it includes an end-to-end machine learning pipeline from data preprocessing to ensemble modeling.
@@ -79,7 +76,6 @@ Calorie prediction is a crucial application in fitness tracking, health monitori
    ```bash
    git clone https://github.com/Souvik-Rana/Predicting-Calorie-Expenditure.git
    cd predicting-calorie-expenditure
-````
 
 2. **Install dependencies**
 
@@ -108,12 +104,29 @@ Calorie prediction is a crucial application in fitness tracking, health monitori
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
-**Souvik Rana**
-- 💼 [LinkedIn](https://www.linkedin.com/in/souvik-rana-sr17/)
-- 🧠 [Kaggle](https://www.kaggle.com/souvikrana17)
-- 💻 [Portfolio](https://souvik-rana.vercel.app/)
+<p align="center">
+  <b> SOUVIK RANA </b><br>
+  <br><a href="https://github.com/Souvik-Rana">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/souvik-rana-19a797221/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.kaggle.com/souvikrana">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" style="margin-right: 10px;" />
+  </a>
+  <a href="https://souvik-rana.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white" />
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/Souvik-Rana/Souvik-Rana/blob/e7e77b01346caa8d86d548a54ffeb41716a210b6/SOUVIK%20RANA%20BANNER.png" alt="Project Banner" width="100%">
+</p>
+
 ---
 
 ## 🤝 Contributions
